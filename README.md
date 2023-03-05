@@ -3,7 +3,7 @@
 
 Bu proje bir sesli asistan projesidir
 
-- Projede **Python 3.9.13 64 Bit** Kullanılmıştır
+- Projede **Python 3.11 64 Bit** Kullanılmıştır
 
 - Projede **Yüz Tanıma** desteği vardır
 
