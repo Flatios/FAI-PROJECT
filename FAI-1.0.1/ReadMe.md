@@ -13,8 +13,6 @@
 - `colorama`
 - `pyaudio`
 - `pyfiglet`
-- `opencv-python`
-- `face-recognition`
   
 
 ## Komutlar: Toplam 10 Komut
