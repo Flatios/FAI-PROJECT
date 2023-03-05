@@ -22,6 +22,6 @@ Bu proje bir sesli asistan projesidir
   
 ## Destek
 
-Destek için hakankaygusuzone@gmail.com adresine e-posta gönderin veya Slack kanalımıza katılın.
+Destek için hakankaygusuzone@gmail.com adresine e-posta gönderin.
 
   
