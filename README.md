@@ -1,15 +1,13 @@
 
 # Flatios INC - **FAI**
 
-- **v1.0.1**
-
 Bu proje bir sesli asistan projesidir
 
 - Projede **Python 3.11 64 Bit** Kullanılmıştır
 
-- Projede **Yüz Tanıma** desteği vardır
+- 1.0.2 ve üst Versiyonlarda **Yüz Tanıma** desteği vardır
 
-- Projede kullanılan herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC'e aittir**
+- Projede herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC'e aittir**
 
 
 ## Kullanılan Modüller
