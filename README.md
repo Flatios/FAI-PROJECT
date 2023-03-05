@@ -7,7 +7,7 @@ Bu proje bir sesli asistan projesidir
 
 - 1.0.2 ve üst Versiyonlarda **Yüz Tanıma** desteği vardır
 
-- Projede herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC'e aittir
+- Projede herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC**'e aittir
 
 ## Versiyonlar
  - `1.0.1`
