@@ -1,7 +1,7 @@
 # Flatios INC - **FAI**
 
-- `v1.0.1`
-- `Projede **Python 3.11 64 Bit** Kullanılmıştır`
+- v1.0.1
+- Projede **Python 3.11 64 Bit** Kullanılmıştır
 
 
 ## Kullanılan Modüller
