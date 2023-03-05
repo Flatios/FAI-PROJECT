@@ -3,11 +3,11 @@
 
 Bu proje bir sesli asistan projesidir
 
-- `Projede **Python 3.11 64 Bit** Kullanılmıştır`
+- Projede **Python 3.11 64 Bit** Kullanılmıştır
 
-- `1.0.2 ve üst Versiyonlarda **Yüz Tanıma** desteği vardır`
+- 1.0.2 ve üst Versiyonlarda **Yüz Tanıma** desteği vardır
 
-- `Projede herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC'e aittir`
+- Projede herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC'e aittir
 
 
 ## Kullanılan Modüller
@@ -22,6 +22,6 @@ Bu proje bir sesli asistan projesidir
   
 ## Destek
 
-`Destek için hakankaygusuzone@gmail.com adresine e-posta gönderin.`
+Destek için hakankaygusuzone@gmail.com adresine e-posta gönderin.
 
   
