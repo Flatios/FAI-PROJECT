@@ -1,5 +1,7 @@
 
-# Flatios INC - **FAI V1.0.1**
+# Flatios INC - **FAI**
+
+** v1.0.1 **
 
 Bu proje bir sesli asistan projesidir
 
