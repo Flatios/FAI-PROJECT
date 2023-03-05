@@ -1,7 +1,7 @@
 
 # Flatios INC - **FAI**
 
-`Bu proje bir sesli asistan projesidir`
+Bu proje bir sesli asistan projesidir
 
 - `Projede **Python 3.11 64 Bit** Kullanılmıştır`
 
