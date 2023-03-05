@@ -5,7 +5,7 @@ Bu proje bir sesli asistan projesidir
 
 - Projede **Python 3.11 64 Bit** Kullanılmıştır
 
-- Projede herkesin kullandığı modüller dışında kullanılan modüller tamamen **Flatios INC**'e aittir
+- Projede Public modüller dışında kullanılan modüller tamamen **Flatios INC**'e aittir
 
 ## Versiyonlar
  - `1.0.1`
