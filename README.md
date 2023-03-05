@@ -19,6 +19,8 @@ Bu proje bir sesli asistan projesidir
 - colorama
 - pyaudio
 - pyfiglet
+- opencv-python
+- face-recognition
   
 ## Destek
 
