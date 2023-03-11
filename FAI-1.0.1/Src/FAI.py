@@ -1,7 +1,6 @@
 # PIP Modules
 
 from gtts import gTTS
-from playsound import playsound
 import os
 import random
 import speech_recognition as sr 
@@ -50,13 +49,19 @@ def response(voice1):
         
 #Speaking
 def speak(string):
-  print("Asistant: " + string)
-  gtts = gTTS(text=string, lang='tr', slow=False)
-  file = 'Speech.mp3'
-  gtts.save(file)
-  time.sleep(0.2)
-  playsound(file)
-  os.remove(file)
+    print("Asistant: " + string)
+    gtts = gTTS(text=string, lang='tr', slow=False)
+    file = 'Speech.mp3'
+    gtts.save(file) 
+    if os.name == "nt":
+        from playsound import playsound
+        playsound(file)
+        os.remove(file)
+    if os.name == "posix":
+        os.system("sudo mpg321 " + file)
+        os.remove(file)
+    if os.name == "macosx":
+        print("Mac OS is not supported")
         
 # TEST
 def test(wake):

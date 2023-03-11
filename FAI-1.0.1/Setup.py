@@ -21,6 +21,7 @@ def Windows():
     os.system("pip install pyaudio")
     os.system("pip install pyfiglet")
     
+    
   else:
     print(Fore.GREEN + "Successfully Modules Found") 
      
@@ -32,15 +33,18 @@ def Linux():
     import playsound
     import requests
     import speech_recognition
+    import pyaudio
+    import pyfiglet
   except ModuleNotFoundError:
     print("not found downloading modules...")
-    os.system("sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0")
-    os.system("sudo apt-get install ffmpeg")
+    os.system("sudo apt-get install -y flac")
+    os.system("sudo apt-get install -y mpg321")
     os.system("pip install gTTS")
-    os.system("pip install playsound")
     os.system("pip install requests")
     os.system("pip install SpeechRecognition")
-    os.system("pip install colorama")    
+    os.system("pip install colorama")  
+    os.system("pip install pyaudio")
+    os.system("pip install pyfiglet")
   else:
     print(Fore.GREEN + "Successfully Modules Found")    
 
