@@ -17,8 +17,8 @@
 
 ## Komutlar: Toplam 10 Komut
 - **Normal:** `merhaba` `selam` `müzik çal` `saat kaç` `seni kim programladı`
-- **APIS:** `hava durumu` `haberler` `nöbetçi eczane`
-- **Komik:** `bana fıkra anlat` `bana kötü espri yap`
+- **API:** `hava durumu` `haberler` `nöbetçi eczane`
+- **Komik:** `fıkra anlat` `kötü espri yap`
 
 
 
